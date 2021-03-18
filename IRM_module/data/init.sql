@@ -1,0 +1,12 @@
+ CREATE TABLE `hd_users` (
+  `id` int(11) NOT NULL,
+  `email` varchar(250) NOT NULL,
+  `password` varchar(250) NOT NULL,
+  `sign_up_date` varchar(250) NOT NULL,
+  `nick_name` varchar(250) NOT NULL,
+  `user_group` int(11) NOT NULL,
+  `last_login` varchar(250) NOT NULL,
+  `url` varchar(270) NOT NULL,
+  `allowed` int(11) NOT NULL,
+  `most_recent_ip` varchar(100) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
