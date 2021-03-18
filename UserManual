@@ -1,0 +1,3 @@
+1.Login to the IRM dashboard via given credentials
+2.You Can create tickets from the dashboard by filling details and it will create a entry in hd_tickets table with user details as well,
+3.IRM operators can update tickets and reply to the tickets with updates as well.
