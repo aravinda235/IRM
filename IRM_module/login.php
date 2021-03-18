@@ -39,8 +39,8 @@ include('inc/header.php');
 						<div class="col-sm-12 controls">
 						Admin: admin@ucsc.com<br>
 						password:abc	<br><br>
-						User: aravinda@ucsc.com<br>
-						password:abc							
+						User: sam@ucsc.com<br>
+						password:pqr							
 						</div>						
 					</div>	
 				</form>   
